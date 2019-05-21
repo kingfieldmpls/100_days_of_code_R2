@@ -8,3 +8,7 @@
 * Treehouse Flask course
 * Martin App
 * FreeCodeCamp
+* Setup Linux distro
+* Bash proficiency
+* PyBites exercises
+* PyBites challenges
