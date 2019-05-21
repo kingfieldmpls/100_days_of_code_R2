@@ -12,3 +12,6 @@
 * Bash proficiency
 * PyBites exercises
 * PyBites challenges
+* vscode proficiency
+* Corey Schafer vids
+* Real Python articles
