@@ -30,7 +30,29 @@
 
 * [Corey's VS Code Vid](https://www.youtube.com/watch?v=06I63_p-2A4)
 
+### R2D2 | Monday, June 17th 2019
 
+**Today's Progress**
+
+* Completed bite 47 using VS code
+* Reviewing where I left off in Talk Python #100daysofcode training
+ * Github api introduced some foggy concepts
+  * requests-cache
+  * pdb
+  * Jupyter notebooks
+
+**Thoughts**
+
+* It took me a second to rememeber vs code concepts from last night. Practice will be good. Could rewatch Corey's video and of course reviewing the documentation would be great.
+* I should just start at day 61 again because I think I missed some crucial steps
+* There are 71 more intermedite bites, so I have my work cut out for me to complete all of thos alongside my other goals
+
+**Questions**
+
+**Links**
+
+* [Pybites pdb article](https://pybit.es/requests-cache.html)
+* [Pybites requests-cache article](https://pybit.es/pdb-debugger.html)
 
 ### R2D? | DoW, Month Day 2019
 
