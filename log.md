@@ -54,6 +54,26 @@
 * [Pybites pdb article](https://pybit.es/requests-cache.html)
 * [Pybites requests-cache article](https://pybit.es/pdb-debugger.html)
 
+### R2D3 | Wednesday, June 19th 2019
+
+**Today's Progress**
+
+* Completed the first day of #100daysofcode Github API
+* Re-famaliarized myself with Jupyter and it's shortcuts
+* Setup environment variables for pipenv through a .env file
+* Setup specific kernels in Jupyter
+* Gained a better conception of how use pdb can help you discover the output of an API interactively
+
+**Thoughts**
+
+* The hours still absolutely whip by
+
+**Questions**
+
+* Why did Jupyter have access to my pipenv modules even when I was just in the regular python3 kernel?
+
+**Links**
+
 ### R2D? | DoW, Month Day 2019
 
 **Today's Progress**
