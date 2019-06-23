@@ -74,6 +74,37 @@
 
 **Links**
 
+### R2D4 | Saturday, June 22nd 2019
+
+**Today's Progress**
+
+* Some partial updates from (unmarked) Thursday morning progress
+ * Finished #10daysofcode Github videos
+ * Setup bottle in pipenv (took forever to lock)
+ * Started reading bottle documentation
+* Prepping to make a github something in bottle
+* Read an article on using __main__.py in a directory instead of if __name__ == "__main__"
+* Got a good sense of working with the Github API - great examples
+* Completed bite 48
+
+**Thoughts**
+
+* Forgot that I was going to make a twitter something in Flask at the end of the last challenege, but basically walked away from the because I realized it was going to take me a long time
+* I'm going to give up on this Bottle GitHub app for now because I think it's going to lead me down the wrong path. I'm just going to read about Heroku, play with Bottle, play with the Github api, do a code challenge and call it a night
+* Still having some issues with vs code like test discovery and figuring out how to use debugging instead of print statements
+* I really need to figute out a quicker way to run the code via shortcut
+
+**Questions**
+
+* What's the advantage of static v. dynamic web pages?
+* What are some good templates I should consider to speed up web development?
+* Why does the VS Code run code button not work like just launching in the terminal
+
+**Links**
+
+* [Not the article I read](https://chriswarrick.com/blog/2014/09/15/python-apps-the-right-way-entry_points-and-scripts/)
+* [pygithub examples](https://pygithub.readthedocs.io/en/latest/examples/MainClass.html#get-current-user)
+
 ### R2D? | DoW, Month Day 2019
 
 **Today's Progress**
