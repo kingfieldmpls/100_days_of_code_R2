@@ -148,6 +148,12 @@
 
 * I basically logic'd the syntax for iterators, but it wasn't incrementing properly, so clearly I did something wrong.
 * Well, sendgrid just showed up again. Next step would be to give their service a try, because man howdy does that look way simpler to manage.
+* Goals for tomorrow
+ * Review some things with emaillike sending attachments, images and adding multiple recipients to email.
+ * Figure out how to make more complex message bodies
+ * 2 bites
+ * Martin finance stuff
+ * Back to #100days vids
 
 **Questions**
 
@@ -155,6 +161,34 @@
 
 * [This D Bader article helped with iterators](https://dbader.org/blog/python-iterators)
 * [sendgrid API client](https://sendgrid.com/solutions/email-api/)
+
+### R2D7 | Tuesday, June 25th 2019
+
+**Today's Progress**
+
+* Completed bite 72 by just reading the itertools documentation and finding takewhile
+* Beat my head against 73 this morning. I had to relearn how tuple (or list) unpacking works in function arguments - the main takeaway is that you need the star both to allow for multiple entires in the definition and to unpack the actual object when your calling the function.I also briefly forgot how multiple ifs is different than elifs - man back to basics. I also feel like I got a really solid understanding of pytz - convert everything to UTC and then go from there.
+* I got bite 78 to work quickly with a for loop - which just felt wrong. It's funny, for loops feel un-Pythonic now. Ultimately I was reminded of set.intersection() which just checkings everything all at once.
+* Bite 79 took me too long because I forgot some critical things, like:
+ * What to do with CSV you get from Requests
+ * How to decode requests content
+ * How to use DictReader
+ * How to parse the Requests response
+ * How to work with a Counter object (it's just a dictionary /facepalm)
+ * How to use the format specific mini-language
+* Partly I think I'm just tired, but it is a little discouraing to forget so many basics. I sort of know how to solve everything now, but it just seems like I'm really, really slow. Maybe I need to think more about the process before writing any code and then write the code more slowly rather than just mash buttons and then test the code.
+* Learned a _little_ bit more about the format specification mini-language. For he first time ever reading the documentation made sense to me. I still don't really understand the ::= stying though. 
+
+**Thoughts**
+
+* It would be good to learn a bit more about how template code is represented in the Python documentation, for example [] usually means optional
+* Another two day thing where I did probably an hour the yesterday morning but it didn't meet my standard for proper effort, so then I just built off of that work today
+
+**Questions**
+
+* I tried to use the VS Code debug features when my pytz test were failing. I did not know how to inspect the steps along the way, It's going to take a little bit of concentration to figure that one out.
+
+**Links**
 
 ### R2D? | DoW, Month Day 2019
 
