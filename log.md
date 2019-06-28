@@ -162,7 +162,7 @@
 * [This D Bader article helped with iterators](https://dbader.org/blog/python-iterators)
 * [sendgrid API client](https://sendgrid.com/solutions/email-api/)
 
-### R2D7 | Tuesday, June 25th 2019
+### R2D7 | Wednesday, June 26th 2019
 
 **Today's Progress**
 
@@ -189,6 +189,28 @@
 * I tried to use the VS Code debug features when my pytz test were failing. I did not know how to inspect the steps along the way, It's going to take a little bit of concentration to figure that one out.
 
 **Links**
+
+### R2D8 | Thursday, June 27th 2019
+
+**Today's Progress**
+
+* Worked on refactoring the Martin Finance app
+* Spent some time writing out stories for both the short term Google Sheet experience and the long term web app dream
+* Read in some detail about Kanban v. scrum from the Atlassian help articles and setup a Trello board to try to project manage this Martin Finance app using the Kanban framework
+* Read The Hitchhiker's Guide to Python section on structuring a project
+ * Read more about __init__.py - I think namespaces and importing and project structure are starting to take on a little more shape in my head
+* Setup a private GitHub repo for the app, but still need to do some refactoring before the initial push
+
+**Thoughts**
+
+* Ultimately very little code written today, but that's OK. I feel like a made some major progress on my knowledge of coding just by thinking more carefully about some frameworks and concepts that were confusing to me in the past.
+
+**Questions**
+
+**Links**
+
+* [Kanban v Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum_)
+* [Structuring a Project](https://docs.python-guide.org/writing/structure/)
 
 ### R2D? | DoW, Month Day 2019
 
