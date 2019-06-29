@@ -212,6 +212,28 @@
 * [Kanban v Scrum](https://www.atlassian.com/agile/kanban/kanban-vs-scrum_)
 * [Structuring a Project](https://docs.python-guide.org/writing/structure/)
 
+### R2D9 | Friday, June 28th 2019
+
+**Today's Progress**
+
+* Mega Martin Finance progress
+ * Started a runner script - budget.py
+ * Refactored the YNAB API mish mash into ynab_api.py which uses actual functions
+
+**Thoughts**
+
+* Almost gave up before I started but then I just took a walk, drank some water and powered through
+
+**Questions**
+
+* What's the best time a place to import packages? Do I want to import anything twice?
+ * I think I can mostly handle variables and db stuff from budget.py
+* Is it better to pass around a db cursor or keep creating them?
+* Am I using the sqlite context manager in a sensible way?
+* What's my logging strategy here?
+
+**Links**
+
 ### R2D? | DoW, Month Day 2019
 
 **Today's Progress**
