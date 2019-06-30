@@ -234,6 +234,27 @@
 
 **Links**
 
+### R2D10 | Saturday, June 29th 2019
+
+**Today's Progress**
+
+* Just worked on adding more structure to the Martin Finance App. I should probably get to the part where I actually make it useful
+
+
+**Thoughts**
+
+* I'm continuing to move along at an OK pace, but I think more thought and less code would still go a long way
+* I went down a total rabbit hole trying to figure out how to interface with the right parser for the right report. At first I tried to abstract out just a couple of lines, which made everything much more complicated. I think I took DRY too seriously.
+* App to watch REI garage availability
+
+**Questions**
+
+* VS Code can't handle .env files? The what?
+ * Handled it by turning off the auto loading on the env in the terminal
+* Why do I have two Martin budget environments?
+
+**Links**
+
 ### R2D? | DoW, Month Day 2019
 
 **Today's Progress**
