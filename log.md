@@ -255,6 +255,23 @@
 
 **Links**
 
+### R2D11 | Sunday,  June 30th 2019
+
+**Today's Progress**
+
+* Just cranked away on the Martin Finance App again. I think I'm probably one to two more sessions away from having it up and running at least. Then it's just a matter of running it whenever and adding features and enhancements as time and need allow.
+
+**Thoughts**
+
+* Better appreciation for namespaces. They run all of their code so you can access variables specific to that namespace and everything within that module understands it's own namespace.
+* Once I finish this bit with the Martin Finance App - let's maybe put a timeline of post 4th of July break - it's back to pushing hard on #100DaysofCode curriculum.
+
+**Questions**
+
+* How to MySQL placeholders actually work to stop SQL injection attacks? What if I wrote some sort of DROP TABLE into a variable that was the placeholder variable?
+
+**Links**
+
 ### R2D? | DoW, Month Day 2019
 
 **Today's Progress**
