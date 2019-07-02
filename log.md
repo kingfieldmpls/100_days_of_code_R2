@@ -272,6 +272,26 @@
 
 **Links**
 
+### R2D12 | Monday, July 1st 2019
+
+**Today's Progress**
+
+* This is feeling like another one of those days where the progress just wasn't "good enough" to count so I'm going to run it across two days for reasons of self-flagellation. Update: I'm pushing through - mnorning and night
+* Holy cow, I got the Martin finance app to work without too much fuss. There are still a lot of missing pieces like automated running, tests, docstrings, logging, etc, but it's in a pretty good shape. The functions more or less seems sensible.
+* Completed SendGrid tutorial - at first I was confused about where my messages were, they were in spam
+
+**Thoughts**
+
+**Questions**
+
+* Where is my pipenv dependency mismatch?
+* How to I prevent SendGrid and just gmail_app emails from having nasty malware banners?
+ * I got SendGrid out of spam - it was there because I sent too many emails
+ * I'm not really sure how to get rid of the phishing banner from gmail_app just yet
+
+
+**Links**
+
 ### R2D? | DoW, Month Day 2019
 
 **Today's Progress**
