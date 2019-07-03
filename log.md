@@ -292,6 +292,23 @@
 
 **Links**
 
+### R2D13 | Tuesday, July 2nd 2019
+
+**Today's Progress**
+
+* Watched #100days of code videos for pyperclip
+
+**Thoughts**
+
+* I have an idea for my "challenge" portion of the days. I want to build a script where I can copy the previous logs days header and the script outputs the whole template for the next day. Then I want to explore the MacOS automator tool to create a quick action in my touch bar that will do that for me! That seems suitably awesome.
+* I've been doing things in phases - pushing hard on bites of pie, the Martin finance app and now back to #100days of code. If I were to do 3 days in 1 day, I could finish the course in 11 days. Considering some of what's coming up is perfect primer for the #100daysofweb, which I expect to be more challening, that may be a tall order. I have a solid stretch of 5 days here, I think I'll see where I can get from now until then and then reassess.
+
+**Questions**
+
+* How do I get spellcheck into my markdown?
+
+**Links**
+
 ### R2D? | DoW, Month Day 2019
 
 **Today's Progress**
