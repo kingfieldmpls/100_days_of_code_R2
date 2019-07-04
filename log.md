@@ -309,15 +309,26 @@
 
 **Links**
 
-### R2D? | DoW, Month Day 2019
+
+### R2D14 | Wednesday, July 3rd 2019
 
 **Today's Progress**
+
+* Read the June VS Code update
+* Finished listening to the Talk Python to Me episode on VS Code
+* Listened to two Python Bytes podcasts while mowing
+* Freakin' did it. Added a custom touch bar button that creates the template for my next day of 100 days of code log when I copy the title from the previous day. Freakin' amazing.
+* It took me over an hour to write a simple script and then get the automator piece figure out, but by god it worked. I'm legitimately excited to keep using that button in the future, and also to not have to look up what day it is anymore
 
 **Thoughts**
 
 **Questions**
 
+* Did something break in my user settings? Also, why does the gutter look different?
+
 **Links**
+
+* The one guy who is still working with Automator (https://macosxautomation.com/automator/services/index.html)
 
 ---
 
