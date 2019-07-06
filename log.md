@@ -330,6 +330,29 @@
 
 * The one guy who is still working with Automator (https://macosxautomation.com/automator/services/index.html)
 
+### R2D15 | Friday, July 5th 2019
+
+**Today's Progress**
+
+* Watched videos on openpyxl
+* Spent some time playing around with openpyxl - it works just fine with Numbers since the format is support. I'm not really sure when this library is something I would want to use over just regular dictwriter or pandas.
+ * Apparently this library has support for Pandas and Numpy, maybe I shouldn't have dismissed it so quickly
+* Watched Selenium videos
+* So the good news is I fixed the up arrow scrolling through commands in the interactive python shell by upgrading Python through homebrew. The bad news is that I also broke all of my virtual environments. 
+
+**Thoughts**
+
+* I think I wrote this as a thought before, but I need to clean out my Python installs and review my brews in general
+* Top priority is old versions of Python cleaned up and reviewing symlinks and makim not spawnng multiple virtual env environments and figuring out where my virtual envs are for goodness sake.
+
+**Questions**
+
+* Can I save the right kind of file and will the library work with Numbers?
+* Well shit. I broke some stuff in VS Code. It can't find my linters and I have multiple virtual environments.
+
+**Links**
+
+
 ---
 
 ## Brain Dump of Ideas
