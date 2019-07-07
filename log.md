@@ -352,6 +352,34 @@
 
 **Links**
 
+### R2D16 | Saturday, July 6th 2019
+
+**Today's Progress**
+
+* I think I mostly cleaned up my brew and python environments. There's still one pesky usr/local/opt interpreter hanging out.
+* I'm going nuts trying to figure out how to load my .env file in VS Code
+ * When I enter the debugger, it looks like the values are actually populating, but there it pukes on finding the server_knowledge
+  * I give up for now
+  * I fixed it. It was a problem where depending on where the file was run from the relative path to the db was different
+  * There was also an issue where I wasn't properly catching len 0 reports with diff server knowledge
+* Finished Selenium videos
+* Learning about using pytest and selenium
+* Got my first pytest/selenium test setup! Woot. Don't understand it all, but was able to troubleshoot without much trouble and I feel like this is a good primer for the Okken doc.
+
+**Thoughts**
+
+* For my day 3 activity I'm going to write a thing that scapes the Netflix site below and populates a list of what's released by day
+* I need to get back to Brian Okken's book and the GoF book!
+
+**Questions**
+
+* Can I exclude a path from Path without negating a whole branch of the tree?
+
+**Links**
+
+* [Helpful Youtube vid on Selenium and Pytest](https://www.youtube.com/watch?v=cG9iymSS3II)
+* [Netflix site I plan to use for day 3](https://www.whats-on-netflix.com)
+
 
 ---
 
