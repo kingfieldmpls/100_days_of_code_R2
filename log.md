@@ -381,6 +381,19 @@
 * [Netflix site I plan to use for day 3](https://www.whats-on-netflix.com)
 
 
+### R2D17 | Sunday, July 7th 2019
+
+**Today's Progress**
+
+* Completed writing all of the selenium tests for the pybites sample web app. It was pretty trivial stuff, but it felt like I was moving really quickly thorugh all of the requirements.  I still don't totally understan the yield in the fixture of the class structure or the request object which is set to class scope and then gets the driver attribute assigned to it. It's nice to have seen this once and I hope Brian's book explains the rest.
+
+**Thoughts**
+
+**Questions**
+
+**Links**
+
+
 ---
 
 ## Brain Dump of Ideas
