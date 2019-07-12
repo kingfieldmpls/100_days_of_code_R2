@@ -393,6 +393,33 @@
 
 **Links**
 
+### R2D18 | Thursday, July 11th 2019
+
+**Today's Progress**
+
+* Project is to grab all of the Netflix new releases titles from this website that tracks that stuff. Problem is that the structure is totally flat
+* Worked on figuring out how to select tags between two tags in Selenium. I think what I figured out is this:
+ * Grab all of the h4 tags
+ * Within each of those starting points check to see if there are title-name class objects nearby
+ * If there are, grab them until you hit another h4 using the h4 ~ .title-name:not(h4) syntax
+ * That didn't work. Get number of children and then loop through a CSS selector for each of the children
+* Hooray! I've done it. The script opens the Netflix updates page, closes a pop-up using an explicit wait in the Selenium library - goes through the flat structure. They solution turned out to be super simple, just a CSS selector like this "h4, h5" and then the for loop writes the 2 dimensional array. You can see the script to run as many pages as you like and then it closes the browser. I think this is an actual useful project I'd like to expand at some point.
+* Attended a PyMNtos meeting - last minute car miscommunication so I biked like crazy to The Nerdery
+ * One speaker setup a rig to take pics of planes flying over his house - cool bit of Raspberry Pi. Feeds images into OpenCV to crop and mark the planes and hits the OpenSky API to find out what the aircraft is. Ultimate aim is to train a model to just recognize the underside of a plan I guess?
+ * Updates on Python 3.8 - focused primarily on positional only arguments
+
+**Thoughts**
+
+* fn + Arrows == Home and End
+* I'm really enjoying this iPython style Python interactive window. Huzzah for proper setup of VS Code
+* I've been working on today since the 8th. I actually put in the time on the 8th but it didn't meet my arbitrary standards. 9th I stayed up super late working on finance stuff and last night had Coolibar HH and then watched T-Swift Prime Day concert.
+
+**Questions**
+
+**Links**
+
+* netflix.py in day 73-75
+
 
 ---
 
