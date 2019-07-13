@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Pipenv
+Pipfile*
+
+# VS Code
+.vscode
+
+# Apple stuff
+.DS_Store

@@ -430,8 +430,15 @@
 **Thoughts**
 
 * Having a ton of fun. I feel like my environments are predictable and VS Code is working exactly like I'd like. I'm getting better with Unix codes to create files and move around the folder hierarchy. It seems like I'll actually be able to put together some sort of Martin app during this challange.
+* Start committing my 100 days repo?
 
 **Questions**
+
+* What happens when the Jinja python gets a bit more involved? What does this stuff look like when it gets more complicated?
+* Is Bootstrap used in any major applications? What are the frameworks people put on top of Flask to style the html?
+* How do you unlink a remote repo again?
+ * What happens to the Git history if you remove a connection to a remote repo?
+
 
 **Links**
 
