@@ -420,6 +420,21 @@
 
 * netflix.py in day 73-75
 
+### R2D19 | Friday, July 12th 2019
+
+**Today's Progress**
+
+* Watched the Flask videos on the Talk Python training app - actually downloaded onto my phone and watched from mi iPhone. It was really a great experience, other than sometimes it was hard to see some of the code detail on my smaller screen
+* Followed along with the day 1 - 3 tasks for Flask which included setting up my environment, reading about 25% of the quick start Flask tutorial, reviewing enough Bootstrap to remind myself what I was doing and then setup a simple web app to show in a nicely formatted table which Netflix movies are released by which date.
+
+**Thoughts**
+
+* Having a ton of fun. I feel like my environments are predictable and VS Code is working exactly like I'd like. I'm getting better with Unix codes to create files and move around the folder hierarchy. It seems like I'll actually be able to put together some sort of Martin app during this challange.
+
+**Questions**
+
+**Links**
+
 
 ---
 
