@@ -442,6 +442,26 @@
 
 **Links**
 
+### R2D20 | Saturday, July 13th 2019
+
+**Today's Progress**
+
+* Watched Talk Python Training sqlite3 videos
+* Watching Plotly videos
+* Reviewed Bokeh and Plotly documentation
+* For some reason pip installed a pre-release version of Plotly, so I had to uninstall and then reinstall the actual release version since some of the functionality disappeared that they referencing their documentation
+
+**Thoughts**
+
+**Questions**
+
+* Julian recommenads using the conext manager. I remember do that, but thought you couldn't create a cursor for some reason.
+* Also not sure why he used contextlib >> contextmanager in his start up a random table script
+* What all does dateutil do?
+* Remind me again how to clean up virtualenvs and git repos
+* Why did pipenv install a pre-release version of Plotly?
+
+**Links**
 
 ---
 
