@@ -463,6 +463,26 @@
 
 **Links**
 
+### R2D21 | Sunday, July 14th 2019
+
+**Today's Progress**
+
+* Successfully plotted my weight over time with Plotly. Works great, but haven't done much in the way of customizations yet.
+* Successfully styled my chart. This actually seems pretty awesome now.
+
+**Thoughts**
+
+* This is cool for creating 2 dimensional arrays for plotting:
+```
+>>> a = [(1,2),(1,3),(1,4)]
+>>> b = list(zip(*a))
+```
+
+**Questions**
+
+**Links**
+
+
 ---
 
 ## Brain Dump of Ideas
