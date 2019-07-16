@@ -482,6 +482,25 @@
 
 **Links**
 
+### R2D22 | Monday, July 15th 2019
+
+**Today's Progress**
+
+* Watched Anvil videos
+* Signed up for Anvil
+* Got all of the basic pieces in place for my sample web app
+
+**Thoughts**
+
+* This is cool and I can totally see the advantage of spinning something up really quickly. That being said, I feel like with the cost($50/month) I'd rather just spin something up the "hard" way with Flask.
+
+**Questions**
+
+* Do I just stay the Flask course, or do I venture into Django, Pyramid, Wagtail, WebSauna or other frameworks to really get a sense of the lay of the land? I feel like maybe I just need to stay the course with doing it the piecemeal way and then expand from there.
+
+**Links**
+
+* Saving this link for when I want to do some fuzzy string searching later for the Netflix app, or the shoppign app https://www.datacamp.com/community/tutorials/fuzzy-string-python
 
 ---
 
@@ -511,3 +530,13 @@
 * Build a Slack app
 * Build a Trello app
 * Clean up various Python installs
+
+## And next time
+
+* Pandas
+* Numpy
+* TensorFlow
+* Natural language processing
+* OpenCV
+* Right chart for the right data set
+* Understanding statistics
