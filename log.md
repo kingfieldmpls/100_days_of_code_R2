@@ -502,6 +502,62 @@
 
 * Saving this link for when I want to do some fuzzy string searching later for the Netflix app, or the shoppign app https://www.datacamp.com/community/tutorials/fuzzy-string-python
 
+### R2D23 | Tuesday, July 16th 2019
+
+**Today's Progress**
+
+* Pretty solid coding day:
+ * Watched part of a Py Edinburgh video on using the debugger in VS Code
+ * Read a Trey Hunner article on tuple unpacking/ multiple assigment
+ * Read a bit of the Anvil documentation
+ * Rewatched portions of the Talk Python Anvil training
+ * Finished my app to the point of my own satisfaction with basically accomplished:
+  * Setting up a plot to view weight over time
+  * Added server calls to handle all of the data management for adding weights on future dates
+  * Setup validation rules so you have to properly put in the right data
+* My thoughts on Anvil:
+ * It's really cool that you can just use the language you love to write a whole web app
+ * It's neat that they've abstracted away pretty much all of the DevOps tasks
+ * I do not enjoy this tool. They way you interact with the database seems extremely limiting unless you upgrade to the paid version which allows you to just bring your own DB
+ * Using just their editor means you don't have any of your tooling in place, and you can't test the deployment
+ * Even though I'm very impressed with the engineering, it just seems like a worse experience than doing it the "hard" way.
+ * It's such a funny thing because I feel like the project is executed so well, but it ultimately feels a bit unnecessary to me. 
+
+**Thoughts**
+
+* Really excited to be moving on to the next thing
+* I'm starting to form this idea of putting together something like an accomplishments goal list/trophy case:
+ * **Things I've done**
+  * Coursera Python Fundamentals
+  * Treehouse learning paths
+  * Read Python Tricks
+  * 100 Days of Code
+* **Things I'm doing**
+ * Second 100 days of code
+ * Talk Python course
+ * PyBites and challenges
+ * GitHub repo
+ * Reading Head First into Design Patterns
+ * Reading Design Patterns
+ * Reading Fluent Python
+* **Things I hope to do**:
+ * Complete 100 days of web Talk Python course
+ * Read Pragmatic Programmer
+ * Read Classic CS Problems - Python
+ * Complete Coursera ML course
+ * Complete Google Tensorflow course
+ * More GitHub
+ * Contribute to open source
+ * Speak at PyMNtos
+ * Attend Pycon
+
+**Questions**
+
+**Links**
+
+* [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
+* [Trey Hunner - Multiple Assignment and Tuple Unpacking](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)
+
 ---
 
 ## Brain Dump of Ideas
