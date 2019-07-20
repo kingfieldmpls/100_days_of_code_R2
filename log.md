@@ -558,6 +558,28 @@
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [Trey Hunner - Multiple Assignment and Tuple Unpacking](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/)
 
+### R2D24 | Friday, July 19th 2019
+
+**Today's Progress**
+
+* Watched the home inventory app videos. It helped to think through some of the problems, and also how I would have structured the database as a single table, or setup a second table to house foreign keys for validating room names instead of create new tables. Other than that, I think it's trivial to do all of the work except turning the program into a GUI or web app, which is what I don't really know how to do yet and I think my time would be better spent forging on with that learning path than putting in the busy work for a bunch of CLI stuff I already know how to do.
+* Read through the entire SQLAlchemy ORM tutorial, which goes into quite a bit of technical detail.
+
+**Thoughts**
+
+* Another multi-day. Watched home inventory and sqlalchemy vids on Wedensday morning before work. It was a gloriuos way to start the day. I identified a couple of additional tasks I wanted to perform so I put off marking the day as done even though the time was put it. Wanted to watch Corey Schafer vid on sqlalchemy, read the documentation
+* Next, try to implement Martin Finance through sqlalchemy.
+
+**Questions**
+
+* Figure out context managers and SQLite3 once and for all. Julian uses contextlib to create a context manager that yields a cursor and then uses a with statement manage that context. I want to see more documentation, and I want to think about atomic transactions. Those are my take aways.
+
+**Links**
+
+* [Checkout some of these free Grindreel courses, possiblty good for Git](https://grindreel.academy)
+* [Corey Schafer SQLalchemy vids](https://www.youtube.com/watch?v=cYWiDiIUxQc)
+* [SQLAlchemy ORM tutorial](https://docs.sqlalchemy.org/13/orm/tutorial.html)
+
 ---
 
 ## Brain Dump of Ideas
@@ -573,7 +595,7 @@
 * Martin App
 * FreeCodeCamp
 * Setup Linux distro
-* Bash proficiency
+* Bash proficiency - grep, curl
 * PyBites exercises
 * PyBites challenges
 * vscode proficiency
