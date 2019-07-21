@@ -573,12 +573,35 @@
 **Questions**
 
 * Figure out context managers and SQLite3 once and for all. Julian uses contextlib to create a context manager that yields a cursor and then uses a with statement manage that context. I want to see more documentation, and I want to think about atomic transactions. Those are my take aways.
+* Not sure how to build the SQLAlchemy db model when the tables are already in place
 
 **Links**
 
 * [Checkout some of these free Grindreel courses, possiblty good for Git](https://grindreel.academy)
 * [Corey Schafer SQLalchemy vids](https://www.youtube.com/watch?v=cYWiDiIUxQc)
 * [SQLAlchemy ORM tutorial](https://docs.sqlalchemy.org/13/orm/tutorial.html)
+
+### R2D25 | Saturday, July 20th 2019
+
+**Today's Progress**
+
+* Read about implementing SQLAlchemy on top of an existing db schema
+* Converting the Martin db app to use pathlib
+* Using the SQLAlchemy ORM for the Martin Budget db
+* I fought a good fight, and I won. I refactored the Martin Budget to SQLAlchemy. It wasn't exactly easy, but I learned what I need to learn.
+
+**Thoughts**
+
+**Questions**
+
+* What's a reasonable way to deal with column name changes in SQLAlchemy, especially when you're using the automap structure? Should I just define the classes again in the code?
+
+
+**Links**
+
+* [SQLAlchemy Automap](https://docs.sqlalchemy.org/en/13/orm/extensions/automap.html)
+
+
 
 ---
 
