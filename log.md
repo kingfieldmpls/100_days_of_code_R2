@@ -569,6 +569,7 @@
 
 * Another multi-day. Watched home inventory and sqlalchemy vids on Wedensday morning before work. It was a gloriuos way to start the day. I identified a couple of additional tasks I wanted to perform so I put off marking the day as done even though the time was put it. Wanted to watch Corey Schafer vid on sqlalchemy, read the documentation
 * Next, try to implement Martin Finance through sqlalchemy.
+* Enough with pipenv, time to try out some other solutions.
 
 **Questions**
 
@@ -596,10 +597,34 @@
 
 * What's a reasonable way to deal with column name changes in SQLAlchemy, especially when you're using the automap structure? Should I just define the classes again in the code?
 
-
 **Links**
 
 * [SQLAlchemy Automap](https://docs.sqlalchemy.org/en/13/orm/extensions/automap.html)
+
+### R2D26 | Monday, July 29th 2019
+
+**Today's Progress**
+
+* Watched #100daysofcode Gooey videos
+* Listened to two Python Bytes podcasts
+* Listened to one Talk Python to Me podcast
+* Read up on Python packaging
+
+**Thoughts**
+
+* Check out other solutions for creating virtual environments. I'm done with pipenv I think.
+
+**Questions**
+
+* I ultimately wasn't able to get Gooey up and running because of an issue with wxPython. I'm wondering if it has something to do with pipenv. I think I might try with venv tomorrow.
+
+**Links**
+
+* [PyOxidizer - Rust library for packaging Python applications](https://pyoxidizer.readthedocs.io/en/latest/getting_started.html)
+* [Plotly 4.0 announcement](https://medium.com/@plotlygraphs/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere-fc444e5659ee)
+* [fast.ai - Learn the basics of machine learning](https://www.fast.ai)
+* [Python Packaging Overview](https://packaging.python.org/overview/)
+
 
 
 
