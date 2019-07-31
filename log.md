@@ -625,8 +625,26 @@
 * [fast.ai - Learn the basics of machine learning](https://www.fast.ai)
 * [Python Packaging Overview](https://packaging.python.org/overview/)
 
+### R2D27 | Tuesday, July 30th 2019
 
+**Today's Progress**
 
+* I did get Gooey running. Pretty underwhelmed. I think the documentation is really bad, and also I noticed that when you use the dark theme in MacOS it takes on that theme and the elements are really hard to tell apart. Ultimately glad I worked through it but not super inspired. Similar feeling to Anvil. I'd rather just do it the hard way.
+* Read more about virtual environments (links below). In light of Kenneth Reitz handing off pipenv, my own experiences with pipenv and my impression of where the community's head it at with pipenv, it just seems like venv is a safer bet.
+* Read more about packaging with PyOxidzier and pyinstaller and Poetry
+
+**Thoughts**
+
+**Questions**
+
+**Links**
+
+* [Corey Schafer Virtual Environments](https://www.youtube.com/watch?v=Kg1Yvry_Ydk)
+* [Realy Python article on virtual environments](https://realpython.com/python-virtual-environments-a-primer/)
+* [PyOxidizer Documentation](https://pyoxidizer.readthedocs.io/en/latest/index.html)
+* [Pyinstaller Documentation](https://www.pyinstaller.org)
+* [Poetry Documentation](https://github.com/sdispater/poetry)
+* [Found the neat bash profile Corey Schafer uses](https://github.com/CoreyMSchafer/dotfiles)
 
 ---
 
