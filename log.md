@@ -646,6 +646,41 @@
 * [Poetry Documentation](https://github.com/sdispater/poetry)
 * [Found the neat bash profile Corey Schafer uses](https://github.com/CoreyMSchafer/dotfiles)
 
+
+### R2D28 | Friday, August 2nd 2019
+
+**Today's Progress**
+
+* Watched "Building JSON APIs" videos
+* Spent a lot of time coding at work, whatever it's rare and it totally counts
+* Got started reading "Classic Computer Science Problems in Python"
+
+**Thoughts**
+
+* It's exciting to see the shape of creating a data driven web app come together. I think I will put the time in to implement all three days, as these skills seem essential for building a lot of my pet projects.
+* Now that I started reading a book, it's gotten me very excited about reading the pytest book as well. Hard to take sensible bites once you get going.
+* Few link below to check out regarding the book and type annotations
+
+**Questions**
+
+* I'm still very curious about many of the aspects related to packaging, and application layout. 
+ * For example, when should you use __init__.py and __main__.py to setup your application? 
+  * How should you think about relative v. explicit imports? 
+  * How should you setup your folder hierarchy? 
+  * How should you think about running the application directly v. running as modules? 
+  * If I were to refactor the RC code, to make the entry points more straight forward, what would I do? 
+   * Why is it necessary to write "if __package__ == None"?
+* Just application structure and imports. If I could lick that, I would feel much better about life
+* When should I be thinking about using enums?
+* How should I think about what it put in class attributes v. methods v. the propety decorator
+
+**Links**
+
+* [mypy homepage](http://mypy-lang.org)
+* [python typing documentation](https://docs.python.org/3/library/typing.html)
+* [book's github repo](https://github.com/davecom/ClassicComputerScienceProblemsInPython)
+* [PEP 484](https://www.python.org/dev/peps/pep-0484/)
+
 ---
 
 ## Brain Dump of Ideas
