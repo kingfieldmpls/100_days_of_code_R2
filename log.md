@@ -681,6 +681,30 @@
 * [book's github repo](https://github.com/davecom/ClassicComputerScienceProblemsInPython)
 * [PEP 484](https://www.python.org/dev/peps/pep-0484/)
 
+### R2D30 | Sunday, August 4th 2019
+
+**Today's Progress**
+
+* Read Python documentation on typing
+* Read PEP 483 (sorta)
+* Read chapter 1 of "Classic Computer Science Problems in Python"
+
+**Thoughts**
+
+* I'm intrigued by the exercises at the end of the chapters. I really want to come back and complete those. I'm also worried that I'm straying quite far from my frontend web-dev designs for this 100 days challenge.
+* The writing in this book is excellent. If I have a question on something and he tells me to go to the Python documentation to learn more, sure enough, his examples are written exactly like the examples in the official documentation.
+* This book is hurting my brain is such a great way.
+
+**Questions**
+
+* How do get intellisense in VS Code once an object has been renamed or passed from another function? Is that possible?
+
+**Links**
+
+* [Real Python Article on Typing](https://realpython.com/python-type-checking/)
+* [mypy Documentation](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
+
+
 ---
 
 ## Brain Dump of Ideas
