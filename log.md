@@ -704,6 +704,28 @@
 * [Real Python Article on Typing](https://realpython.com/python-type-checking/)
 * [mypy Documentation](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
 
+### R2D31 | Saturday, August 10th 2019
+
+**Today's Progress**
+
+* Started reading Brian Okken's Pytest.
+* Started watching Armin Ronacher's PyBay 2016 Flask talk
+* Listened to Talk Python to Me where Bob and Julian join Michael to discuss lessons learned from putting together the #100daysofweb course
+* Completed building the SQLAlchemy model for days 97-99
+* Learning more about altering the model once the tables are built and building relationship in SQLAlchemy
+  * Basically you either want to use a migration with something like Alembic, or you just want to update the table yourself and then update your model in the code
+
+**Thoughts**
+
+* What to learn more about building relationships with primary and foreign keys as well as cascading updates with SQLAlchemy - https://docs.sqlalchemy.org/en/13/orm/tutorial.html#building-a-relationship
+
+**Questions**
+
+**Links**
+
+* [Ignore single lines for Flake8 violations](http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html)
+* [Understanding SQL indexes](https://use-the-index-luke.com/sql/anatomy/the-leaf-nodes)
+* [SO Indexing Answer](https://stackoverflow.com/questions/107132/what-columns-generally-make-good-indexes)
 
 ---
 
