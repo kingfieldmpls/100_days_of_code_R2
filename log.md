@@ -727,6 +727,38 @@
 * [Understanding SQL indexes](https://use-the-index-luke.com/sql/anatomy/the-leaf-nodes)
 * [SO Indexing Answer](https://stackoverflow.com/questions/107132/what-columns-generally-make-good-indexes)
 
+
+### R2D32 | Tuesday, August 13th 2019
+
+**Today's Progress**
+
+* Just worked on finishing up days 97-99
+* Just test a single API on Postman
+
+**Thoughts**
+
+* As I muddle through these final days, I feel less like I'm coding and more like I'm just copying and pasting bits to get something that worked into a form that will work in a slightly different way. I feel very mentally disorganized, and hopefully I'm just gaining some exposure to be primed to be better at this the second and third times around.
+* I feel like I just need to map out what I'm trying to do in each of these buckets
+* After I complete these days, here is what I'd like to do next:
+ * Corey Schafer's Flask course
+ * Treehouse Flask course
+ * The Mega Flask Tutorial
+ * Build my own task
+ * Breaks in between for the following
+  * Pytest
+  * Pybites
+* And then on to #100daysofweb
+* And beyond that FreeCodeCamp
+* And beyond that still want to tackle ML, Classic Computer Science Problems, Pandas, other stuff
+
+**Questions**
+
+* Can you enforce something like a unique value in the ORM if the database doesn't also have a restriction?
+* Test if an ORM constraint is enforced even if it's not the in DB and see where it's enforced
+
+**Links**
+
+
 ---
 
 ## Brain Dump of Ideas
@@ -750,7 +782,7 @@
 * Real Python articles
 * Make the shell prettier
 * Python.org tutorial (PSF has them too? Same ones?)
-* Probably need to review CSRF if I'm going to focus on web dev
+* Probably need to review CSRF if I'm going to focus on web dev XSS
 * Read more about storing access tokens
 * Build a Slack app
 * Build a Trello app
