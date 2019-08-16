@@ -758,6 +758,26 @@
 
 **Links**
 
+### R2D34 | Thursday, August 15th 2019
+
+**Today's Progress**
+
+* TIL if you don't set the Content-Type header with your HTTP request, you're going to have a bad time
+* By carefully rewatching the #100days videos, I saw what went wrong with my create_user API endpoint
+* Kind of a ton of stuff:
+ * I setup my Python environment at work and started going through Corey Scahfer's Flask tutorial. It took me a while because the most recent version of Werkzeug doesn't work with the flask run command on my environment at work, lame. It took me an hour to figure out why, but then I made good progress on that and setup my repo to continue on at home.
+ * At home I setup my environment and then immediately borked pip by upgrading and then forgetting that MacOS wants to use pip3. That took me 30 minutes to figure out but then I aliased it and now we're all good.
+ * I finished setting up all of the API endpoints for the HiLo Flask app. Now I'm in the process of some refactoring to make my super basic app do it's thing. There is going to be some learning curve on the client side with Uplink, like why super().__init__? I don't know yet. I'll probably have to rewatch the vids and then read some of the documentation, but it does seem that the end is in sight and then I will have implemented by first non-trivial API as well as gotten some experience with PostMan, Flask for web server, Flask for APIs, Uplink and DB modeling with SQLAlchemy.
+
+**Thoughts**
+
+* I'm pretty damn excited to wrap this course and move on to Corey Schafer.
+
+**Questions**
+
+**Links**
+
+
 
 ---
 
