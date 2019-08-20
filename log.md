@@ -778,6 +778,22 @@
 **Links**
 
 
+### R2D36 | Tuesday, August 20th 2019
+
+**Today's Progress**
+
+* Holy shit, I actually completed the #100daysofcode course. I'm not entirely sure how long it took me, but I think it was something like 50 "Rob" days, which is probably more like 75 days or so. The course exposed me to quite a lot, and also was humbling in how shallow my knowledge is across so many different packages. I think it would be a meaningful milestone to actually get quite deep in a package and know some of the intricacies.
+
+**Thoughts**
+
+* Day 3 of JSON APIs almost killed me. I felt like it was such a hack job to put together the hilo game. I felt very disorganized and that my process was more like fixing things that were broken than thinking through how to solve problems and then solving them. I'm really glad it's done, I think I've learned a tremendous amount, and now I can't wait to apply this knowledge to my own projects.
+
+**Questions**
+
+**Links**
+
+
+
 
 ---
 
