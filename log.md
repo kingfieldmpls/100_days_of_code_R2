@@ -793,6 +793,23 @@
 **Links**
 
 
+### R2D37 | Thursday, August 22nd 2019
+
+**Today's Progress**
+
+* Not much to say, but I put in the time so here we go:
+ * Listened to Talk Python to Me episodes on arcade, bokeh and embedded Python
+ * Completed lesson 3 regarding forms for Corey Schafer's Flask tutorial
+
+**Thoughts**
+
+* I'm basically understanding everyhing that Corey is doing but there is so much detail that is glossed over. I don't really know anything about Bootstrap classes and I feel like I'm doing more copying than really learning how any of that work at this point.
+
+**Questions**
+
+**Links**
+
+
 
 
 ---
