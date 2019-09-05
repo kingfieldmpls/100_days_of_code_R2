@@ -809,7 +809,27 @@
 
 **Links**
 
+### R2D38 | Wednesday, September 4th 2019
 
+**Today's Progress**
+
+* Completed parts 1 - 10 of Corey Schafer's Flask Tutorial. That's right. In a single day. No, not really. I just haven't been logging my days for some reason. 
+
+**Thoughts**
+
+* So it's been a LONG time since an update, but (aside from 9 days on the road) I've still been doing stuff pretty much everyday.
+* I'm having an existential crisis about whether or not the #100days framework is still useful for me. I'm clearly addicted and have been for over a year and don't see any signs of slowing down. One thought was to actually try to _tone down_ the coding for a bit by sticking to just an hour a day sintead of this much more vague idea of "whenever I've learned enough".
+* Between the last bit of days in the Talk Python #100days course and then these past weeks with Corey, I'm getting a lot of exposure to Flask. Even though I've been following along closely with the video, I don't think I could implement the whole thing again from scratch once I'm done. I'm not even sure I'll remember what all the code does without looking things up. I'm torn about where to go next. Options:
+ * Do the next Talk Python course and continue to survey web development in Python in general
+ * Build my own Flask project
+ * Complete Martin Finance project
+ * Read Pytest book
+ * Pop over to Free Code Camp and just do web dev (maybe that's where I should focus my hour a day efforts)
+
+
+**Questions**
+
+**Links**
 
 
 ---
