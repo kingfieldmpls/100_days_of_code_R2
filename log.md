@@ -831,6 +831,23 @@
 
 **Links**
 
+### R2D39 | Thursday, September 5th 2019
+
+**Today's Progress**
+
+* Completed parts 11 and 12 of Corey Schafer's Flask tutorial - which ends the formal "parts" - the next vids and deployment, SSL, etc.
+
+**Thoughts**
+
+* There is some much I couldn't repeat on my own. It's overwhelming to think about the massive knowledge gap in just this one technology. 
+* There are missing pieces that he mentions he will cover, such as unit testing and Heroku deployment. That's understandable, especially when this course is essentially freely produced by one individual, but it's still a bummer to miss out on this incredibly high quality content for topics that tend not to be covered in much detail.
+* I've been thinking more about how to advance this hundred days. I think what I'm going to do is finish this CS tutorial and then start working on my own Flask app while at the same time working through the Pytest book an hour a day and have that discipline be the thing that drive me forward in the challenge.
+
+**Questions**
+
+**Links**
+
+
 
 ---
 
