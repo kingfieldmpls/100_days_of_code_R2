@@ -847,6 +847,22 @@
 
 **Links**
 
+### R2D40 | Sunday, September 8th 2019
+
+**Today's Progress**
+
+* Finished Corey Schafer's Flask Tutorial videos on deplying to a Linode server, setting up https and using a custom domain name
+
+**Thoughts**
+
+* Really cool to see something I built (with lots of just following instructions) live on the internet. Nevertheless, this is sort of doing things the hard way. No CMS. No PAAS (other than Linode - ha). But the server still needs to be provisioned and configured by hand. I didn't go through the trouble of buying a domain name, so I wasn't able to try out that part or the SSL parts in person, but I was able to follow along with what he was saying.
+* Pumped to be able to check this one off the list, and get a couple of firsts out of the way. Next stop is to try to do my own stuff while pushing forward on some of the "work" (like reading pytest) during the required hour/dailies.
+
+**Questions**
+
+**Links**
+
+
 
 
 ---
