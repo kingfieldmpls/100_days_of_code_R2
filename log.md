@@ -847,7 +847,7 @@
 
 **Links**
 
-### R2D40 | Sunday, September 8th 2019
+### R2D40 | Saturday, September 7th 2019
 
 **Today's Progress**
 
@@ -862,7 +862,48 @@
 
 **Links**
 
+### R2D41 | Sunday, September 8th 2019
 
+**Today's Progress**
+
+* Deployed the Flask Blog app to Heroku all by my lonesome.
+
+**Thoughts**
+
+* I'm going to have to do it, I'm going to have to read the Flask documentation to lock this shit in.
+
+**Questions**
+
+* Does gunicorn allow you to tightly control access from various sources the same was AWS and Linode do?
+* If your static files don't have routes, how can you make sure that people have to be logged in to see those assets?
+* Can I do 301 redirects from www to non-www with gunicorn?
+* Where was the CSRF prevention in CS tutorial?
+  * The newest versions of Flask-WTF come with it baked in, apparently?
+* How did the "Remember Me" button work?
+ * flask_login -- login_user
+
+**Links**
+
+* [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/)
+* [Flask-WTF Documentation](https://flask-wtf.readthedocs.io/en/stable/quickstart.html#validating-forms)
+
+
+### R2D42 | Monday, September 9th 2019
+
+**Today's Progress**
+
+* Working my way through the official Flask documentation as I look back on the CS project and try to cement some of the learnings. So far it seems like it's working pretty well since the project layout is still fresh, and so are many of the questions. It's also occurring to me that if I hadn't done this, much of the value of the CS training would have been lost.
+* So far I've read the Quick Start and everything in links from there to anythign I didn't know about and then the first few sections of the tutorial.
+
+**Thoughts**
+
+* Good official documentation is pretty amazing. It must have been so much work to put that documentation together, and maybe it's just the level of familiarity I have now (because some parts of the quickstart seem quite technical) bet everything seems so much more logical when viewing it in the documentation rather than watching someone use it in production. That's counter-intuitive, but it's my experience at this moment.
+
+**Questions**
+
+**Links**
+
+* [Flask Tutorial](https://flask.palletsprojects.com/en/1.1.x/)
 
 
 ---
@@ -870,7 +911,7 @@
 ## Brain Dump of Ideas
 
 * [git basics](https://git-scm.com/book/en/v1/Getting-Started)
-* Finish PyBites #100DaysofCOde
+* ~~Finish PyBites #100DaysofCOde~~
 * Start and finish PyBites #100DaysofWeb
 * Read Design Patterns
 * Read Pragmatic Programmer
@@ -889,7 +930,7 @@
 * Make the shell prettier
 * Python.org tutorial (PSF has them too? Same ones?)
 * Probably need to review CSRF if I'm going to focus on web dev XSS
-* Read more about storing access tokens
+* ~~Read more about storing access tokens~~
 * Build a Slack app
 * Build a Trello app
 * Clean up various Python installs
