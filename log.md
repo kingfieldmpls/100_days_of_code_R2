@@ -906,6 +906,23 @@
 * [Flask Tutorial](https://flask.palletsprojects.com/en/1.1.x/)
 
 
+### R2D43 | Tuesday, September 10th 2019
+
+**Today's Progress**
+
+* Completed the offical Flask tutorial. It was a great to reinforce and dig more into so many topics introduced by Corey Schafer.
+
+**Thoughts**
+
+* It was neat to see such much depth into testing. I think the test code is longer than the production code. It's really daunting to think about how scary testing is to me. I think the best thing to do might be to try to unit test and read Brian's books as I try to put together my own app.
+* I think it's time for me to put together my own app. I have some general ideas about how it should work. Dashboards. Some filter. Login. Focus on finance and FI and then groceries and meal prep.
+* More feeling daunted. Also glimmers of ... but what if I was productive at web dev.
+
+**Questions**
+
+**Links**
+
+
 ---
 
 ## Brain Dump of Ideas
