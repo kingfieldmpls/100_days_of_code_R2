@@ -923,6 +923,27 @@
 **Links**
 
 
+### R2D44 | Wednesday, September 11th 2019
+
+**Today's Progress**
+
+* Updated the Martin Budget App to actually update server knowledge.
+* Made a few more notes on updates to make to the app
+* Read more about Bootstrap 4 and flask-bootstrap, which seems old and not worth learning
+* Learned more about Plotly's capabilities
+* Thought a bit about what to build
+
+**Thoughts**
+
+* Read more Boostrap documentation tomorrow
+
+**Questions**
+
+**Links**
+
+* [Plotly Python Custom Controls](https://plot.ly/python/dropdowns/)
+
+
 ---
 
 ## Brain Dump of Ideas
