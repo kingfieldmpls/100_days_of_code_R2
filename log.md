@@ -944,6 +944,47 @@
 * [Plotly Python Custom Controls](https://plot.ly/python/dropdowns/)
 
 
+### R2D45 | Friday, September 13th 2019
+
+**Today's Progress**
+
+* Found a bug in my pyperclip app that skips days if you hit the button twice. D'oh! I only hit the button twice because it looks like maybe the operation hadn't completed the first time. There's no feedback on how long the operation should take and it basically just looked like the pasted hadn't updated.
+ * Ok, yes I was able to confirm this. It takes a second to run the query so it looks like all the areas where I'm off by a day need to be updated.
+ * Read a bunch of the Bootstrap documentation - Getting started, Layout, Content and now I'm using Components to actually start buiding the layout.
+ * Got a Navbar in the Martin app and built the git repository.
+
+**Thoughts**
+
+**Questions**
+
+**Links**
+
+
+### R2D46 | Saturday, September 14th 2019
+
+**Today's Progress**
+
+* Made placeholders for food, home and budget pages
+* Read more jinja, bootstrap, plotly, heroku and flask documentation
+* Got a Plotly graph charting, which wasn't obivous at first how to do - it's a combination of Python and Javascript
+
+**Thoughts**
+
+* The very next thing for me to do is to get setup with a PostgreSQL database, review my SQLAlchemy ORM setup with the budget software.
+* It would be interesting to eventually expose an API to the budget database.
+
+**Questions**
+
+* How can I cache data so that it loads really fast in the app?
+* How can I run my database updates in the background so you don't have to do it in the app?
+
+**Links**
+
+
+
+
+https://css-tricks.com
+
 ---
 
 ## Brain Dump of Ideas
