@@ -981,6 +981,45 @@
 **Links**
 
 
+### R2D47 | Monday, September 16th 2019
+
+**Today's Progress**
+
+* A lot of excitement today. I discovered that I can use Plotly Express to just output HTML that I can dump directly into a template - which gives me the responsive designs I was looking for all along while still being able to just make changes to the objects using familiar Python classes
+* I successfully create a table in the PostgreSQL schema. 
+
+**Thoughts**
+
+**Questions**
+
+* I still don't really understand how init_app works
+
+**Links**
+
+
+### R2D48 | Tuesday, September 17th 2019
+
+**Today's Progress**
+
+* Deleted the old table in the new schema and then wrote the models and relationships and created the tables again
+* Dude, a lot man. I got the Martin Budget app working in the Flask context. It took a bit of doing because of using flask-SQLAlchemy, and PostgreSQL instead of SQLite, but it did eventually work out.
+* Plotted an actual Martin graph on the internet. Holy shit, this shit is for real. Now I need to think about how these queries are going to be written to make it enticing to continue to write them in the future.
+
+**Thoughts**
+
+* Once I'm done with v1 of this project, I want to go back through Miguel, Pallets and Digital Ocean and make notes on ways to improve
+* I think I got my head wrapped around the backref() as opposed to the backref argument. You can set the loading for both sides of the relationship, and it's confusing because backref is shorthand for defining the relationships on both ends
+
+**Questions**
+
+**Links**
+
+* [Digital Ocean Flask Project Structure](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
+
+
+
+
+
 
 
 https://css-tricks.com
