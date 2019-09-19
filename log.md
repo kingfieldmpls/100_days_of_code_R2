@@ -1017,6 +1017,24 @@
 * [Digital Ocean Flask Project Structure](https://www.digitalocean.com/community/tutorials/how-to-structure-large-flask-applications)
 
 
+### R2D49 | Wednesday, September 18th 2019
+
+**Today's Progress**
+
+* Spent a considerable amount of time research charting libraries. There are some great ones out there. I think I'm going to keep it relatively simple with chart.js and apexcharts to start out with. They both have excellent examples are seem straight forward to use.
+* I spent some time trying to better understand how the SQLalchemy ORM works with delete and then adding a matching primary key in the same session. I did do some testing with SQLite, but then I jumped in with Postgres and it ran for a very long time with nothing to show for it.
+
+**Thoughts**
+
+**Questions**
+
+**Links**
+
+* [APEXCHARTS Dashboards](https://apexcharts.com/javascript-chart-demos/dashboards/)
+* [Bootstrap Dashboards](https://startbootstrap.com/themes/)
+
+
+
 
 
 
