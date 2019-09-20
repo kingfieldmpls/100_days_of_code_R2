@@ -1033,6 +1033,20 @@
 * [APEXCHARTS Dashboards](https://apexcharts.com/javascript-chart-demos/dashboards/)
 * [Bootstrap Dashboards](https://startbootstrap.com/themes/)
 
+### R2D50 | Thursday, September 19th 2019
+
+**Today's Progress**
+
+* Another wild one. I spent a million hours both trying to figure out why PostgreSQL 11 wouldn't install and how to make Upserts work in SQLAlchemy. In the end, I didn't really "figure" either one out, but I was able to move on. I installed postgres 10 instead of 11 (I think it may have had to do with the version of my C++ compiler) and it turned out session.merge() did what I needed to do. I had used merge before with SQLite, so I don't know why I didn't encounter more advice on the internet just telling me to merge. 
+* I was able to simplify my parsers a bit by adding a "deleted" column to each of the models. I was succesfully able to pull in all of the data (though I haven't check it against GSheet yet) and now I just have the handling of server_knowledge left to figure out.
+
+**Thoughts**
+
+* Really excited to get out of db admin and back into web dev.
+
+**Questions**
+
+**Links**
 
 
 
