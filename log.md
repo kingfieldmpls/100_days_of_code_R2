@@ -1050,13 +1050,45 @@
 
 **Links**
 
+### R2D51 | Friday, September 20th 2019
+
+**Today's Progress**
+
+* Solved the server knowledge issue by just adding a deleted column and then just checking the server knowledge on the first pass. Seems to be working great now.
+
+**Thoughts**
+
+* I think I still might want to go back and switch our merges for upserts - because it's more strictly correct.
+
+**Questions**
+
+* Need to figure out where to put my script files to generate graphs in this HTML jumble
+* Excited to work through iteration in Jinja to make the charts
+* Need to figure out where to store all of my SQL queries too
+
+**Links**
+
+* [Excellent example of how to think about the different grid elements](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/blob/master/index.html)
 
 
+### R2D52 | Wednesday, September 25th 2019
+
+**Today's Progress**
+
+* Listen, I've been doing stuff. Lots of stuff. I'm not even sure what these days mean anymore because I'm spending time on this project virtually every day. At present it's all running locally just fine. I completed a major refactor to move the pieces into place, and tried to decouple my Javascript, when I realized that I had tightly coupled the Javasript to my specific data structures. That won't do, so a significant challenge for me is to figure out a better way to make data driven websites using Flask. I've bitten off quite a bit here, and understanding a better way to architect this thing is going to be important in the long term, I think.
+
+**Thoughts**
+
+**Questions**
+
+* Curious about Socket IO, Celery and Jenkins. Just tell me what to use them for.
+
+**Links**
+
+* https://jedi.readthedocs.io/en/latest/
+* https://css-tricks.com
 
 
-
-
-https://css-tricks.com
 
 ---
 
