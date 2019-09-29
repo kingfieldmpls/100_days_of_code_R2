@@ -1089,6 +1089,30 @@
 * https://css-tricks.com
 
 
+### R2D53 | Saturday, September 28th 2019
+
+**Today's Progress**
+
+* Once again, I'm guilty of just not logging my time here. I've been doing stuff. The biggest victory today was a figured out a good way to keep my Javascript files that are drawing my graphs actually static in the static folder. I originally just had them in the html file with the templates, but it was made for very long files, and the formatting was hard to manage. Plus the server logic was too tightly coupled with the module meant for just drawing my pictures. So, I investigated a few different directions - looking at data attributes in HTML5, writing and API and then using .render of AJAX to ingest that data, and then finally settling on just casting my SQLAlchemy queries to JSON in Jinja using | tojson and setting those those to JS variables, then loading in the graphs after that and then just referencing the variables. It all seems so clear now, and I'm sure hindisght will make all of these decisions seem short sighted soon enough. Anyway, it didn't change the app, but it felt like a major victory.
+* On to the next task - logins. I read the documention for Flask-Login and watched a Pretty Printed video on setting it up. I've also reviewed both Corey Schafer and Miguel Grinberg's code to better understand how they've setup user authentication. I think I'm in good shape to start implementing tomorrow.
+* Watched a Miguel video on using VS Code for Flask development. It helped me better understand the debugger and work around and existing issue in Flask that I didn't even know existed.
+* I've been collecing a bunch of Javascript resources for dealing with data. Those are posted below.
+
+**Thoughts**
+
+**Questions**
+
+**Links**
+
+* [Miguel Grinberg - How to Setup a Flask App in VS Code](https://www.youtube.com/watch?v=UXqiVe6h3lA)
+* [Pretty Printed has great Python Web Dev intro vids](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ/featured)
+* https://medium.com/javascript-in-plain-english/exploring-chart-js-e3ba70b07aa4
+* https://stackoverflow.com/questions/11178426/how-can-i-pass-data-from-flask-to-javascript-in-a-template
+* https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes#JavaScript_access
+* https://www.youtube.com/watch?v=uxf0--uiX0I
+* http://jonathansoma.com/tutorials/flask-sqlalchemy-mapbox/putting-data-on-the-page.html
+
+
 
 ---
 
