@@ -1113,6 +1113,42 @@
 * http://jonathansoma.com/tutorials/flask-sqlalchemy-mapbox/putting-data-on-the-page.html
 
 
+### R2D54 | Sunday, September 29th 2019
+
+**Today's Progress**
+
+**Thoughts**
+
+* Still need to deal with flashed messages
+* Need to understand next with Flask-Login
+* Need to set some Flask-Login config variables I think
+* Setup html templates and links on home template
+* Change view based on logged in status
+* Add other features such as reset password, email confirmation and account page
+
+**Questions**
+
+* I'm curious about other ways to handle authentication with Flask. Corey handles it on the forms and the routes.
+
+**Links**
+
+* Old as shit, but explains why using a setter method on the User model similar to how Miguel does it is a pretty slick way to encrypt your passwords on their way to the database - [link](http://exploreflask.com/en/latest/users.html)
+
+
+### R2D55 | Tuesday, October 1st 2019
+
+**Today's Progress**
+
+* Implemented registration and login. Did some reformatting. Understood some things about Flask logging. Made some observations about changing my data model. Getting pretty darn close to getting this puppy live.
+
+**Thoughts**
+
+**Questions**
+
+**Links**
+
+* https://hackersandslackers.com/guide-to-building-forms-in-flask/
+
 
 ---
 
