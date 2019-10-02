@@ -1135,7 +1135,7 @@
 * Old as shit, but explains why using a setter method on the User model similar to how Miguel does it is a pretty slick way to encrypt your passwords on their way to the database - [link](http://exploreflask.com/en/latest/users.html)
 
 
-### R2D55 | Tuesday, October 1st 2019
+### R2D55 | Monday, September 30th 2019
 
 **Today's Progress**
 
@@ -1149,6 +1149,24 @@
 
 * https://hackersandslackers.com/guide-to-building-forms-in-flask/
 
+
+### R2D56 | Tuesday, October 1st 2019
+
+**Today's Progress**
+
+* Another good one. Got the profile page built. Feeling like I'm understanding my tools a little bit better, though I still have to look up literally everything. Got the ZeroDivision error handled, figured out how to run categories without hitting server knowledge, created a profile page where you can update all of your profile info, setup multiple configs and launched on Heroku. It's currently up, but it doesn't have a backend setup yet. That's a task for tomorrow.
+
+**Thoughts**
+
+* Really excited to dunk my toe into Hacktoberfest, facing my fears and contributing to open source
+* Lots of speaking opportunities at PyMNtos. Need to face fears and sign up to talk in the next few months
+
+**Questions**
+
+**Links**
+
+* [This guy learning Flask and blogging about it is crushing it](http://www.patricksoftwareblog.com/testing-a-flask-application-using-pytest/)
+* [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile)
 
 ---
 
