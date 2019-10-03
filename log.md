@@ -1175,6 +1175,7 @@
 
 * Got Postgres setup in Heroku. That was a pretty easy process. Also got more used to logging, using the bash command line in Heroku, using PSQL in Heroku and just getting shit done.
 * Browsed some more Hacktoberfest info
+* Setup the YNAB reports to run daily
 
 **Thoughts**
 
