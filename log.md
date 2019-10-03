@@ -1168,6 +1168,25 @@
 * [This guy learning Flask and blogging about it is crushing it](http://www.patricksoftwareblog.com/testing-a-flask-application-using-pytest/)
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile)
 
+
+### R2D57 | Wednesday, October 2nd 2019
+
+**Today's Progress**
+
+* Got Postgres setup in Heroku. That was a pretty easy process. Also got more used to logging, using the bash command line in Heroku, using PSQL in Heroku and just getting shit done.
+* Browsed some more Hacktoberfest info
+
+**Thoughts**
+
+* I'm still very intimidated by the whole PR process. I'm not really understanding the level of effort, communication or complexity.
+
+**Questions**
+
+**Links**
+
+* [How to make the most of your first PyCon](https://treyhunner.com/2018/04/how-to-make-the-most-of-your-first-pycon/)
+
+
 ---
 
 ## Brain Dump of Ideas
