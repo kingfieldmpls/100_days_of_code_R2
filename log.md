@@ -1188,6 +1188,22 @@
 * [How to make the most of your first PyCon](https://treyhunner.com/2018/04/how-to-make-the-most-of-your-first-pycon/)
 
 
+### R2D58 | Saturday, October 5th 2019
+
+**Today's Progress**
+
+* Implemented error pages, 6 month rolling budget and favicon
+
+**Thoughts**
+
+* I think it's time to dive back into pytest and get that shit sorted
+
+**Questions**
+
+**Links**
+
+
+
 ---
 
 ## Brain Dump of Ideas
